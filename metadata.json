@@ -1,0 +1,6 @@
+{
+  "name": "Judo Seddouk",
+  "description": "Application de gestion pour club de judo : gestion des adhérents, pointage par code QR/carte, présences et planification des cours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
